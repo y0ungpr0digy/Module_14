@@ -1,5 +1,5 @@
 # Module_14
-(app Link; file:///Users/ricardouspango/Desktop/Module%2014%20CH./StarterCode/index.html
+(app Link: file:///Users/ricardouspango/Desktop/Module%2014%20CH./StarterCode/index.html
 
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
 
